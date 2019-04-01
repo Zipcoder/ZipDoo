@@ -1,6 +1,12 @@
-# todoListAPP
-Vanilla JavaScript to-do list app.
-A very simple to-do list app dveloped using: HTML, CSS, and last but not least JavaScript.
-This app was develooped in order to cement my knowledge of DOM manipulaiton.
+# ZipDoo
+Simple, vanilla JavaScript to-do list application. (No backend)
+A very simple to-do list app developed using: HTML, CSS, and JavaScript.
 
-Check it out <a href="https://calolocosta.github.io/todoListAPP/">here</a>.
+Notice how short and clear everything is.
+
+All Hail @CaloloCosta, who origninated this app.
+
+## Backend extension
+
+Now, what would you have to do to add a Spring Boot back end to this app?
+
